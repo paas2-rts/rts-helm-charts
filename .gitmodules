@@ -1,3 +1,6 @@
 [submodule "charts/flink-deploy-base"]
 	path = charts/flink-deploy-base
 	url = https://github.com/paas2-rts/flink-deploy-base.helm
+[submodule "charts/connect-cluster-base"]
+	path = charts/connect-cluster-base
+	url = https://github.com/paas2-rts/connect-cluster-base.helm
