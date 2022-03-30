@@ -3,6 +3,19 @@ entries:
   connect-cluster-base:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2022-03-30T18:07:31.94758227Z"
+    description: Chart for Connect Clusters
+    digest: def781d6ce743579c6978fe16f3238cb7a0bb398c662244dcf91d189273379f5
+    home: https://github.com/paas2-rts/connect-cluster-base.helm
+    maintainers:
+    - email: gimral@gmail.com
+      name: charts-maintainers
+    name: connect-cluster-base
+    urls:
+    - https://github.com/paas2-rts/rts-helm-charts/releases/download/connect-cluster-base-1.0.1/connect-cluster-base-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2022-03-30T11:57:01.579445922Z"
     description: Chart for Connect Clusters
     digest: 8d77d9d9abad7f1a40a2ff26fcc1b5b064f2ffbb30ef26d6f586a94612a1e36a
@@ -28,4 +41,4 @@ entries:
     urls:
     - https://github.com/paas2-rts/rts-helm-charts/releases/download/flink-deploy-base-1.0.0/flink-deploy-base-1.0.0.tgz
     version: 1.0.0
-generated: "2022-03-30T11:57:01.579451753Z"
+generated: "2022-03-30T18:07:31.94759077Z"
