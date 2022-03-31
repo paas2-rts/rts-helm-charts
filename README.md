@@ -17,3 +17,6 @@ To install the <chart-name> chart:
 To uninstall the chart:
 
     helm delete my-<chart-name>
+
+To update the submodules  
+ git submodule -q foreach git pull -q origin main
