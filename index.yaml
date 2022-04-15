@@ -30,6 +30,19 @@ entries:
   flink-deploy-base:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2022-04-15T10:51:19.468755098Z"
+    description: Chart for Apache Flink
+    digest: f3dd99dccdb4673e4148548bf55a5a4b2f3c6f2383e190d521d547d580a1f31f
+    home: https://github.com/paas2-rts/flink-deploy-base.helm
+    maintainers:
+    - email: gimral@gmail.com
+      name: charts-maintainers
+    name: flink-deploy-base
+    urls:
+    - https://github.com/paas2-rts/rts-helm-charts/releases/download/flink-deploy-base-1.0.2/flink-deploy-base-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2022-03-31T09:25:42.635714614Z"
     description: Chart for Apache Flink
     digest: ccf5614ed6fc788210b5c25bf4f165c22f5a7badf5dc60f07d096853cb6e6c28
@@ -54,4 +67,4 @@ entries:
     urls:
     - https://github.com/paas2-rts/rts-helm-charts/releases/download/flink-deploy-base-1.0.0/flink-deploy-base-1.0.0.tgz
     version: 1.0.0
-generated: "2022-03-31T09:25:42.635732615Z"
+generated: "2022-04-15T10:51:19.468768699Z"
